@@ -1,0 +1,15 @@
+.header{
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../images/background1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.banner {
+  padding: 145px 0px;
+  color : white;
+  padding-left: 100px;
+}
+
+.logoSareeYou{
+	padding : 10px 00px 0px 90px;
+}
