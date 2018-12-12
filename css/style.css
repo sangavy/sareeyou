@@ -1,7 +1,8 @@
-/* Importing component files */
+/* Importing component files and font */
 @import url("components/banner.css");
 @import url("components/button.css");
-/* Importing component files */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/* Importing component files and font*/
 
 body {
     font-family:'Roboto' sans-serif;
